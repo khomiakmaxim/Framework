@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBp9b9FaGSbt/vqfItQN6vI4wLyKSSiXrjBvA6aRm3k5Ik8/05+pOmZLfZD6KkmcEz/Y2EKgLgvxtXq+RdT91w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maksym\\source\\repos\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maksym\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Maksym\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
